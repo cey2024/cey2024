@@ -56,7 +56,7 @@
 
 6.  CV / Resume PDF
 
-[Download My Resume](./Resume.pdf)
+   [Download My Resume](./Resume.pdf)
 
 
 7. Contact
