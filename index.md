@@ -54,9 +54,7 @@
    Personal Development Activity(TOEIC 800+ 목표)
 
 
-6.  CV / Resume PDF
-
-   [Download My Resume](./Resume.pdf)
+6.  CV / Resume PDF : [Download My Resume](./Resume.pdf)
 
 
 7. Contact
